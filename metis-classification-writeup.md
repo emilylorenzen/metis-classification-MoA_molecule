@@ -7,7 +7,7 @@ Emily Lorenzen
 # Classifying molecules as GPCR interactors
 
 ## Abstract
-
+One method of identifying potential new therapeutics is by performing high throughput screening. These screens involve 100,000 + molecules, most of which will not be a lead molecule, and are very expensive. By being to able to filter some of those molecules out, we can reduce the expense of high throughput screens. Towards this aim I developed a classification model that could differentiate between molecules that bind to g protein-couple receptors and other protein targets. I was interested in g protein-coupled receptors since they are the most pharmaceutically exploited family of proteins. I developed a molecule with a recall rate of 0.99mm while filtering out at least 50% of non-GPCR ligands. 
 
 ## Data
 Data was obtained from the following sources:
