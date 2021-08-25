@@ -16,7 +16,7 @@ Classified molecules as GPCR ligands based solely on molecular properties that w
 
 Table: Comparison of classification algoithm performance
 
-![](confusion_matrix.svg)
+![](confusion_matrix1.svg)
 
 Tools used:
 Sci-kitlearn, Statsmodel, biopython, mordred, rdkit, seaborn, matplotlib, pandas, imblearn
